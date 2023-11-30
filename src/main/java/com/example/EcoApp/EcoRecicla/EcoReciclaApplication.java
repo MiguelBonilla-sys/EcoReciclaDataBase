@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-//@ComponentScan(basePackages = {"com.example.EcoApp.EcoRecicla"})
+//@ComponentScan(basePackages = {"com.example.EcoApp.EcoRedcicla"})
 public class EcoReciclaApplication {
 
  public static void main(String[] args) {
