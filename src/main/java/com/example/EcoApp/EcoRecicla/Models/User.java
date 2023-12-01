@@ -12,7 +12,7 @@ import javax.persistence.Table;
 
 
 @Getter
-@Table(schema="dbo", name="User")
+@Table(name="user")
 @Entity
 public class User {
     @Id

@@ -9,7 +9,7 @@ import com.example.EcoApp.EcoRecicla.Models.User;
 import com.example.EcoApp.EcoRecicla.Services.UserService;
 
 @RestController()
-@RequestMapping("/api/user")
+@RequestMapping("/api/User")
 public class UserApiController {
     @Autowired
     UserService userService;
